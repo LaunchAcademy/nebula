@@ -14,7 +14,7 @@ To use the tests, you will need to install Node -- you can do this via the
 Clone the repo down:
 
 ```
-git clone git@github.com:LaunchAcademy/nebula.git
+git clone https://github.com/LaunchAcademy/nebula.git
 ```
 
 Once you've cloned the repo, run the following from your command line:
